@@ -1,0 +1,7 @@
+E:\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.csproj.CoreCompileInputs.cache
+E:\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.csprojResolveAssemblyReference.cache
+E:\TaskPlanner\TaskPlanner\bin\Debug\TaskPlanner.exe.config
+E:\TaskPlanner\TaskPlanner\bin\Debug\TaskPlanner.exe
+E:\TaskPlanner\TaskPlanner\bin\Debug\TaskPlanner.pdb
+E:\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.exe
+E:\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.pdb
